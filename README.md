@@ -19,4 +19,7 @@ It's part of my learning journey, and I aim to create more meaningful projects i
 2.  Run abc_analyse.py
 3.  Follow instructions
 
+![image](https://github.com/ValikRTMM/ABC-Analyse/assets/116544714/1958cec1-a63f-4b6b-b7e0-1fa583f5e79c)
+
+
 16.12.2023
