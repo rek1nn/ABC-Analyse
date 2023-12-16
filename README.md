@@ -20,7 +20,9 @@ It's part of my learning journey, and I aim to create more meaningful projects i
 3.  You can inport your own data or take test data set:
 
 iPhone 12 Silicone Case, USB-C Cabel, AirPods Pro 2. Gen, Spinner, Orbit Spearmint, Coca-Cola 0.5
+
 95, 353, 2, 90, 228, 554
+
 4.99, 2.98, 225, 3.98, 0.75, 0.99
 
 
